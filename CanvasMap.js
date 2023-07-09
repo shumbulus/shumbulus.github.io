@@ -108,7 +108,7 @@ console.log("mTerrainTiles X,Y: "+mTerrainTiles[0].length + ","+mTerrainTiles.le
 
 var mTerrainTiles = [
   [2,2,2,2,2],
-  [2,2,2,2,2],
+  [2,2,5,2,2],
   [2,2,3,2,2],
   [2,2,2,2,2],
   [2,2,2,2,2]
